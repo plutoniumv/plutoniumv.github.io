@@ -228,9 +228,6 @@ span{
     0%, 20%{
         content: "Ethical Hacker";
     }
-    21%, 40%{
-        content: "Python Programmer";
-    }
     41%, 60%{
         content: "CTF Player";
     }
